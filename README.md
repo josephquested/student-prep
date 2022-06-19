@@ -22,7 +22,7 @@ Also, to help our admissions process run smoothly, please ensure that:
 1. [Check requirements](/requirements.md)
 2. [Sign up for accounts](/accounts.md)
 3. [Install software](/install-software.md)
-4. [Complete Personal Information form](https://docs.google.com/forms/d/e/1FAIpQLSeOe6FzgbfOmtG6xYeO3-IVN9DTkwRi0zG6V909o1vuPUNa5w/viewform)
+4. [Complete Personal Information form](https://docs.google.com/forms/d/e/1FAIpQLSe2mGOXLNLF0s0elJuffmNr7BGjaWDa0M73FEL2Vos7EgYbkQ/viewform)
 
 
 ## Optional Prep Curriculum (Estimated Time: 9+ Hours)
